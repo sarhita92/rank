@@ -10,7 +10,7 @@
          "defeats":{
             "poker":12,
             "setteEmezzo":154
-         },
+         }
       },
       {
         "nickname":"Carl",
@@ -21,7 +21,7 @@
          "defeats":{
             "poker":495,
             "setteEmezzo":154
-         },
+         }
       },
       {
         "nickname":"Homer",
@@ -32,7 +32,7 @@
          "defeats":{
             "poker":999,
             "setteEmezzo:999
-         },
+         }
       },
       {
         "nickname":"Bart",
@@ -43,7 +43,7 @@
          "defeats":{
             "poker":123,
             "setteEmezzo":234
-         },
+         }
       },
       {
         "nickname":"Lisa",
@@ -54,7 +54,7 @@
          "defeats":{
             "poker":122,
             "setteEmezzo":233
-         },
+         }
       },
       {
         "nickname":"Marge",
@@ -65,7 +65,7 @@
          "defeats":{
             "poker":12,
             "setteEmezzo":23
-         },
+         }
       },
     ]
  }
