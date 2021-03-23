@@ -1,10 +1,9 @@
-  
 {
    "players":[
       {
-        "nickname":"Lenny",
-        "victories":{
-           "poker":227,
+         "nickname":"Lenny",
+         "victories":{
+            "poker":227,
             "setteEmezzo":123
          },
          "defeats":{
@@ -13,9 +12,9 @@
          }
       },
       {
-        "nickname":"Carl",
-        "victories":{
-           "poker":565,
+         "nickname":"Carl",
+         "victories":{
+            "poker":565,
             "setteEmezzo":66
          },
          "defeats":{
@@ -24,9 +23,9 @@
          }
       },
       {
-        "nickname":"Homer",
-        "victories":{
-           "poker":0,
+         "nickname":"Homer",
+         "victories":{
+            "poker":0,
             "setteEmezzo":0
          },
          "defeats":{
@@ -35,9 +34,9 @@
          }
       },
       {
-        "nickname":"Bart",
-        "victories":{
-           "poker":987,
+         "nickname":"Bart",
+         "victories":{
+            "poker":987,
             "setteEmezzo":876
          },
          "defeats":{
@@ -46,9 +45,9 @@
          }
       },
       {
-        "nickname":"Lisa",
-        "victories":{
-           "poker":988,
+         "nickname":"Lisa",
+         "victories":{
+            "poker":988,
             "setteEmezzo":877
          },
          "defeats":{
@@ -57,17 +56,15 @@
          }
       },
       {
-        "nickname":"Marge",
-        "victories":{
-           "poker":54,
+         "nickname":"Marge",
+         "victories":{
+            "poker":54,
             "setteEmezzo":87
          },
          "defeats":{
             "poker":12,
             "setteEmezzo":23
          }
-      },
-    ]
- }
-      
-        
+      }
+   ]
+}
